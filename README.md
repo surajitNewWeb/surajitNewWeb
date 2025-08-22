@@ -48,7 +48,7 @@ Welcome to my GitHub profile! I build modern, responsive, and scalable web appli
 ## ✨ Connect & Collaborate
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/surajit-samanta-a84225280/)
-- 📧 Email: surajitsamantaofficial@gmail.com
+- 📧 Email: surajitsamanta3401@gmail.com
 - 🌎 Portfolio: *Coming Soon!*
 
 ---
