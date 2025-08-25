@@ -1,4 +1,4 @@
-![Surajit Samanta - Web Developer](assets/banner.png)
+![Surajit Samanta - Web Developer](desltop/git_banner.png)
 
 # 🌟 Surajit Samanta
 
