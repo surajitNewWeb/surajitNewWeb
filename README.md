@@ -1,4 +1,8 @@
+![Surajit Samanta - Web Developer](assets/banner.png)
+
 # 🌟 Surajit Samanta
+
+Welcome to my project repository!
 
 **Web Developer Associate at Travarsa Private Limited**
 
