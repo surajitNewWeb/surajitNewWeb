@@ -28,11 +28,10 @@ Welcome to my GitHub profile! I build modern, responsive, and scalable web appli
 
 | Project                             | Description                                                      | Stack                                      |
 |--------------------------------------|------------------------------------------------------------------|--------------------------------------------|
-| 🚗 **Car Rental Management System**  | End-to-end platform for booking & managing car rentals.          | PHP, MySQL, Bootstrap, JS                  |
-| 🤖 **AI Poetry Generator**           | Generates creative poetry using AI and NLP algorithms.           | HTML, JS, External API                     |
-| 🛒 **E-commerce Website**            | Full-featured online shopping solution for businesses.           | PHP, MySQL, Bootstrap, JS                  |
+| 🚗 **Car Rental Management System**  | End-to-end platform for booking & managing car rentals.          | PHP, MySQL, HTML,CSS, Bootstrap, JS        |
+| 🤖 **AI Poetry Generator**           | Generates creative poetry using AI and NLP algorithms.           | HTML, JS,HTML,CSS, External API            |
 | 🔮 **Astrology App**                 | Provides astrology predictions using Prokerala API integrations. | Laravel, Prokerala API, Bootstrap, JS      |
-| 👗 **SS-Fashion**                    | Modern fashion e-commerce store with stylish UI & features.      | Laravel, MySQL, Bootstrap, JS              |
+| 👗 **SS-Fashion**                    | Modern fashion e-commerce store with stylish UI & features.      | PHP, MySQL, Bootstrap, JS                  |
 | 🛍️ **Laravel E-commerce**            | Advanced e-commerce platform built with Laravel framework.       | Laravel, MySQL, Bootstrap, JS              |
 
 > Explore more on my [GitHub repositories!](https://github.com/surajitNewWeb?tab=repositories)
